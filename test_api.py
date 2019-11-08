@@ -8,7 +8,7 @@ import sys, logging
 from xmlrpc import client
 
 URL = "http://127.0.0.1:8069"
-DB = "contec_test2"
+DB = "contec_demo"
 USER = "odooimporttest@odoo.test.com"
 PW = "importpasswordmustbelongotherwiseitisnotsafe"
 
